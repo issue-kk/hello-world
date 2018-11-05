@@ -3,4 +3,5 @@
 ・git add<br>
 ・git commit<br>
 ・git push<br>
-・git rm
+・git rm<br>
+・git diff
