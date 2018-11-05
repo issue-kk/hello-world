@@ -1,3 +1,4 @@
 ﻿# hello-world
 テスト<br>
-test
+・git add<br>
+・git comit
