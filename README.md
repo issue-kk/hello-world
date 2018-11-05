@@ -2,4 +2,5 @@
 テスト<br><br>
 ・git add<br>
 ・git commit<br>
-・git push
+・git push<br>
+・git rm
